@@ -1,4 +1,4 @@
-calss Javaprog{
+class Javaprog{
 
 public static void main (string[] args){
 
